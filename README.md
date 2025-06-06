@@ -8,9 +8,9 @@ Nestor The Long Eared Christmas Donkey (1977).mkv
 
 **Usage:**<br>
 $ ./getmovies.sh
-<br><br>
+<br>
 
 **Results:**<br>
-$ cat /mnt/disk1/Media/movies.csv
-Downloaded, Name, Release Year
-12-20-2023,Nestor The Long Eared Christmas Donkey,1977
+$ cat /mnt/disk1/Media/movies.csv<br>
+Downloaded, Name, Release Year<br>
+12-20-2023,Nestor The Long Eared Christmas Donkey,1977<br>
