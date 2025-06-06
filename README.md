@@ -2,7 +2,7 @@
 A shell script to pull a list of movies from multiple disks mounted and generate a CSV of names, dates obtained and date released.
 <br> <br>
 
-Note that all movies are saved in the format as shown below.
+Note that all movies are saved in the format as shown below.<br>
 Nestor The Long Eared Christmas Donkey (1977).mkv
 
 
